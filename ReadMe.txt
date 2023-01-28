@@ -442,3 +442,5 @@ namespace WindowsFormsApp2
     }
 }
 
+
+Video Adresi: https://youtu.be/KOO0veSQHKw
